@@ -31,6 +31,7 @@ Mimico is a responsive, voice-controlled virtual assistant web application built
 
 ## 🧱 Folder Structure
 
+
 📁 MY_AI
 │
 ├── 📁 src
@@ -57,7 +58,10 @@ Mimico is a responsive, voice-controlled virtual assistant web application built
 ├── vite.config.js
 └── README.md
 
+---
+
 ## 📦 Installation & Running the App
+
 
 ### 1. Clone the Repository
 
@@ -78,7 +82,11 @@ let apiKey = "YOUR_GOOGLE_GEN_AI_KEY";
 npm run dev
 Then open your browser at http://localhost:5173
 
+---
+
 🎤 Available Voice Commands
+
+
 Command	Action
 open YouTube	Opens youtube.com
 open Google	Opens google.com
@@ -86,7 +94,11 @@ open Facebook / Twitter	Opens respective sites
 open Gmail / WhatsApp	Opens respective sites
 Any other sentence	Gets AI response
 
+---
+
 📚 Future Enhancements
+
+
 🔐 User authentication (JWT, Firebase, or OAuth)
 
 🌍 Multilingual support (using react-i18next)
